@@ -1,5 +1,5 @@
 # dockerized-swift-format
-Swift-Format on a Docker container (From @palleas [article][article])
+Swift-Format on a Docker container (From [@palleas][palleas] [article][article])
 
 ## Description
 
@@ -21,3 +21,4 @@ This is not my idea and by all means the whole heavy lifting was done by Romain;
 
 
 [article]:https://romain-pouclet.com/2018/08/23/swift-format-docker/
+[palleas]:https://github.com/palleas/
